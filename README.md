@@ -1,4 +1,4 @@
-# Projeto Barberia
+# Projeto Barbearia
 
 Página da **Barbearia Alura**, que está sendo utilizada para desenvolvimento da Formação de HTML e CSS da Alura.
 
